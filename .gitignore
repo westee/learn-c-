@@ -1,0 +1,22 @@
+# 编译生成的文件
+*.o
+*.out
+*.exe
+
+# 编辑器和集成开发环境（IDE）生成的文件
+.vscode/
+.idea/
+
+# 编译器生成的文件和文件夹
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+cmake-build-debug/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
